@@ -32,7 +32,7 @@ I am particularly interested in vision-language-action models for robotic manipu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/GravMAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation](https://openreview.net/pdf?id=qPzYF2EpXb), <strong>Yangtao Chen*</strong>, Zixuan Chen*, et al.
+[GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation](https://openreview.net/pdf?id=qPzYF2EpXb), **Yangtao Chen\***, Zixuan Chen*, et al.
 
 [**Project**](https://gravmad.github.io/) 
   - GravMAD introduces a sub-goal-driven, language-conditioned framework that combines imitation learning and foundation models for improved 3D task execution and generalization.
