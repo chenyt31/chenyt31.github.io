@@ -24,8 +24,8 @@ I am particularly interested in vision-language-action models for robotic manipu
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our <a href="https://gravmad.github.io/">GravMAD </a> is accepted to <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.</li>
-- *2025.01*: &nbsp;🎉🎉 One paper on <a href="https://arxiv.org/abs/2501.06605">Robotic World Model for Long-horizon Manipulation</a> is released.</li>
+- *2025.01*: &nbsp;🎉🎉 Our <a href="https://gravmad.github.io/">GravMAD </a> is accepted to <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.
+- *2025.01*: &nbsp;🎉🎉 One paper on <a href="https://arxiv.org/abs/2501.06605">Robotic World Model for Long-horizon Manipulation</a> is released.
 
 # 📝 Publications 
 
@@ -40,7 +40,7 @@ I am particularly interested in vision-language-action models for robotic manipu
 </div>
 </div>
 
-- ``ICLR 2025`` [GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation](https://openreview.net/pdf?id=qPzYF2EpXb), <strong>Yangtao Chen*</strong>, Zixuan Chen*, et al.
+- ``ICLR 2025`` [GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation](https://openreview.net/pdf?id=qPzYF2EpXb), **Yangtao Chen\***, Zixuan Chen*, et al.
 
 # 🎖 Honors and Awards
 - *2023.11* Nanjing University Graduate Academic Scholarship
