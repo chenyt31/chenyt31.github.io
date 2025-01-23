@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yangtao Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master's student at Nanjing University"
+  bio              : "The goal of my research is to equip robots with versatile capabilities for open-world manipulation tasks, particularly in
+household settings."
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
