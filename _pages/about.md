@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Master's student at Nanjing University, R\&L Group, supervised by Professor Yang Gao and Professor Jing Huo. Previously, I received my B.S. in Engineering from Xiamen University.
+I am currently a second-year Master's student at Nanjing University, R&L Group, supervised by Professor Yang Gao and Professor Jing Huo. Previously, I received my B.S. in Engineering from Xiamen University.
 
 The goal of my research is to equip robots with versatile capabilities for open-world manipulation tasks, particularly in household settings. To achieve this, I focus on 1) utilizing foundation models and Internet-scale data to enhance robots' environmental understanding, and 2) designing algorithms that enable adaptive and scalable generalization to diverse scenarios.
 I am particularly interested in vision-language-action models for robotic manipulation.
