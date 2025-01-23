@@ -36,6 +36,7 @@ I am particularly interested in vision-language-action models for robotic manipu
 
 [**Project**](https://gravmad.github.io/) 
   - GravMAD introduces a sub-goal-driven, language-conditioned framework that combines imitation learning and foundation models for improved 3D task execution and generalization.
+  - Empirical results show that GravMAD outperforms existing methods by 28.63% on novel tasks and 13.36% on seen tasks, demonstrating its effectiveness in multi-task learning and generalization in 3D manipulation.
 </div>
 </div>
 
