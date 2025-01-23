@@ -25,7 +25,7 @@ I am particularly interested in vision-language-action models for robotic manipu
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Our <a href="https://gravmad.github.io/">GravMAD </a> is accepted to <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a>.
-- *2025.01*: &nbsp;🎉🎉 One paper on <a href="https://arxiv.org/abs/2501.06605">Robotic World Model for Long-horizon Manipulation</a> is released.
+- *2025.01*: &nbsp; One paper on <a href="https://arxiv.org/abs/2501.06605">Robotic World Model for Long-horizon Manipulation</a> is released.
 
 # 📝 Publications 
 
