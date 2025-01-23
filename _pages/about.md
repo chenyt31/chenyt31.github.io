@@ -47,5 +47,5 @@ I am particularly interested in vision-language-action models for robotic manipu
 - *2024.11* Nanjing University Graduate Academic Scholarship
 
 # 📖 Educations
-- *2023.09 - 2025.06*, Master, Nanjing University, Nanjing.
+- *2023.09 - 2026.06*, Master, Nanjing University, Nanjing.
 - *2019.09 - 2023.06*, Undergraduate, Xiamen University, Xiamen.
